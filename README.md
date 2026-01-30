@@ -1,1 +1,1 @@
-# chaiCode-webDebCohort-sudeepprasad
+# chaiCode-webDevCohort-sudeepprasad
